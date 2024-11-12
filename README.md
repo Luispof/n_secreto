@@ -16,8 +16,7 @@ O jogo escolhe um número aleatório dentro de um intervalo específico (ex.: de
 ## Tecnologias Utilizadas
 
 - HTML, CSS e JavaScript
-- Web Speech API para reconhecimento de voz
-- [Frameworks ou bibliotecas adicionais, se aplicável]
+- SpeechRecognitionI para reconhecimento de voz
 
 ## Como Executar o Projeto
 
